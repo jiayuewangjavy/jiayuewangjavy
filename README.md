@@ -3,7 +3,7 @@
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/270abd91-d5d7-4e53-86a1-710717054f79" />
 
 
-Product designer with 12+ years of experience, now exploring AI-native products, coding agents, and creative tools.
+Product designer with 12+ years of experience, now exploring some personal AI-native products, coding agents, and creative tools.
 
 我正在探索如何用 AI 和代码，把自己的想法做成真实可用的小工具、作品和产品。  
 也在成为 product builder + content creator 的路上持续练习。
