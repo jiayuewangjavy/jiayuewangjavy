@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Javy Wang 👋
 
-<!--
-**jiayuewangjavy/jiayuewangjavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/270abd91-d5d7-4e53-86a1-710717054f79" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Product designer with 12+ years of experience, now exploring AI-native products, coding agents, and creative tools.
+
+我正在探索如何用 AI 和代码，把自己的想法做成真实可用的小工具、作品和产品。  
+也在成为 product builder + content creator 的路上持续练习。
+
+---
+## ⭐ Featured projects
+-  [Personal illustration] (https://github.com/jiayuewangjavy/personal-editorial-illustrations) A personal Codex skill for creating minimal, hand-drawn editorial illustrations with a consistent character 
+- [UX design] (https://github.com/jiayuewangjavy/ux-heuristic-evaluation)A Claude Code skill that performs systematic usability evaluations using Jakob Nielsen's 10 usability heuristics, supplemented by auto-detected domain-specific modules.
+- [Have Fun] (https://github.com/jiayuewangjavy/Blue-whale-atlas) An interactive natural-history style blue whale atlas
+
+## 🆕 Recently and keep on going
+
+- Learning how to build with different AI coding agents
+- Creating small tools for personal AI-native workflows
+- Exploring product ideas, websites, and automation
+
+---
+
+## About me
+
+- 🌱 Currently learning: AI tools, coding, and product building
+- 🛠️ Building: small useful tools, products, and experiments
+- ✨ Interested in: creativity, automation, and innovation
