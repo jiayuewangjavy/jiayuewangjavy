@@ -11,7 +11,7 @@ Product designer with 12+ years of experience, now exploring some personal AI-na
 ---
 ## ⭐ Featured projects
 -  [Personal illustration] (https://github.com/jiayuewangjavy/personal-editorial-illustrations) A personal Codex skill for creating minimal, hand-drawn editorial illustrations with a consistent character 
-- [UX design] (https://github.com/jiayuewangjavy/ux-heuristic-evaluation)A Claude Code skill that performs systematic usability evaluations using Jakob Nielsen's 10 usability heuristics, supplemented by auto-detected domain-specific modules.
+- [Portfolio audit tool] (https://github.com/jiayuewangjavy/audit-design-portfolio))A tool that can help you audit your personal website or portfolio 
 - [Have Fun] (https://github.com/jiayuewangjavy/Blue-whale-atlas) An interactive natural-history style blue whale atlas
 
 ## 🆕 Recently and keep on going
