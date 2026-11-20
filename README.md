@@ -13,7 +13,9 @@ Product designer with 12+ years of experience, now exploring some personal AI-na
 -  [Personal illustration] (https://github.com/jiayuewangjavy/personal-editorial-illustrations) A personal Codex skill for creating minimal, hand-drawn editorial illustrations with a consistent character 
 - [Portfolio audit tool] (https://github.com/jiayuewangjavy/audit-design-portfolio) A tool that can help you audit your personal website or portfolio
 - [Conceptual model design skill] (https://github.com/jiayuewangjavy/conceptual-model-design-skill) A cross-platform Agent Skill and interactive review workspace for turning product requirements, research, workflows, policies, and existing product evidence into an explicit conceptual model before interface generation.
-- [Have Fun] (https://github.com/jiayuewangjavy/Blue-whale-atlas) An interactive natural-history style blue whale atlas
+- [Have Fun] (practice-library-iota.vercel.app) A personal library of interface and motion studies: inspiration, my practice, and what I learned.
+
+
 
 ## 🆕 Recently and keep on going
 
